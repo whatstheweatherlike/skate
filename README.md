@@ -10,4 +10,4 @@ We just use the GitHub provided [markdown syntax](https://guides.github.com/feat
 
 * [Shops](shops.md)
 * Search engines
-* Videos
+* [Videos](videos.md)
