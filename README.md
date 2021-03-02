@@ -14,4 +14,5 @@ We just use the GitHub provided [markdown syntax](https://guides.github.com/feat
 * [News](news.md)
 * [Shops](shops.md)
 * [Search engines](search-engines.md)
+* [Social](social.md)
 * [Videos](videos.md)
