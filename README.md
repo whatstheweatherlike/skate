@@ -8,7 +8,6 @@ We just use the GitHub provided markdown syntax for ease of use and speed of cha
 
 ## Resource pages
 
-* Shops
-  * Europe
+* [Shops](shops.md)
 * Search engines
 * Videos
