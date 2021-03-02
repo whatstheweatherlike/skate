@@ -8,6 +8,7 @@
 * https://www.hungryhills.de/
 * http://mateskateboards.com/
 * https://mob-shop.de/
+* https://no-comply.de/
 * https://pfeilskateboards.de/
 * https://www.subvert.de/
 * https://www.titus.de/
@@ -18,7 +19,13 @@
 
 ## Companies
 
+### Germany
+
+* http://www.polster-trucks.com/
+
 ### US/International
 
 * https://www.dickies.com/
-* http://www.polster-trucks.com/
+* https://elevationskatesnow.com/
+* https://garageskateshop.com/
+* https://powell-peralta.com/
