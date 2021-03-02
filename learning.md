@@ -24,7 +24,7 @@
 
 * VLSkate Playlists
   * [How to videos](https://www.youtube.com/playlist?list=PLvRKsQIqEVbAfRhCF6N6RBG-W3KokrKe0)
-* Braille Skateboarding Playlists
+* [Braille Skateboarding](https://brailleskateboarding.com/) Playlists
   * [Learn To Skateboard](https://www.youtube.com/watch?v=p3NXd3DhH08&list=PL34F060CE1BA3E968)
   * [Skateboard Lessons](https://www.youtube.com/watch?v=XY_fvQhpBEU&list=PLjpsoptsN4KClVfOdsGw-hl0kwkgAlkLq)
   * [Updated Tutorials](https://www.youtube.com/watch?v=VasSLuFO4wY&list=PLjpsoptsN4KAne8sGSM9-VFk9vK8t8du8)
