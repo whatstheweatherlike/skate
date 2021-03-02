@@ -5,6 +5,3 @@
 * https://skatemap.de/
 * https://www.ridemypark.com/
 
-## Others
-
-* https://www.getloke.com/
