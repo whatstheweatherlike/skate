@@ -8,6 +8,8 @@ We just use the GitHub provided [markdown syntax](https://guides.github.com/feat
 
 ## Resource pages
 
+* [Learning](learning.md)
+* [Maintenance](maintenance.md)
 * [Shops](shops.md)
-* Search engines
+* [Search engines](search-engines.md)
 * [Videos](videos.md)
