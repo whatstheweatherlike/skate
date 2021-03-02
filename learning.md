@@ -5,6 +5,10 @@
 * [Skateboarding glossary](http://www.skate-the-planet.com/articles/glossary/index.html)
 * [Skateboard anatomy](https://www.skatewarehouse.com/anatomy.html)
 
+## Tech
+
+* [The ABEC myth - about bearing ABEC types](https://skateboarding.transworld.net/news/the-abec-myth/)
+
 ## Etiquette
 
 * [Skate park etiquette](https://www.surfertoday.com/skateboarding/the-ultimate-guide-to-skatepark-etiquette)
