@@ -1,5 +1,7 @@
 # Buyers Advice
 
+Note: most of the links here effectively go to www.skateboardershq.com
+
 * [First skateboard](https://www.redbull.com/int-en/what-to-remember-when-buying-your-first-skateboard)
 * [Completes](https://www.skateboardershq.com/best-complete-skateboards/)
 * [Bearings](https://www.warehouseskateboards.com/help/Skateboard-Bearings-Buying-Guide)
