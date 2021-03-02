@@ -4,7 +4,7 @@ The goal of this repository is to provide a place to collect resources that help
 
 ## Intended structure
 
-We just use the GitHub provided markdown syntax for ease of use and speed of change.
+We just use the GitHub provided [markdown syntax](https://guides.github.com/features/mastering-markdown/) for ease of use and speed of change.
 
 ## Resource pages
 
