@@ -2,20 +2,17 @@
 
 ## Shops
 
-### Germany
-
-* https://blackheavenshop.com/
-* https://www.hungryhills.de/
-* http://mateskateboards.com/
-* https://mob-shop.de/
-* https://no-comply.de/
-* https://pfeilskateboards.de/
-* https://www.subvert.de/
-* https://www.titus.de/
-
-### Netherlands
-
-* https://www.sickboards.nl/
+Shop                                              | Store | Location                                                    | Shipping
+--------------------------------------------------|-------|-------------------------------------------------------------|----------------
+[Black Heaven](https://blackheavenshop.com/)      |  ✅   | Muenster, Germany                                           | Worldwide
+[Hungry Hills](https://www.hungryhills.de/)       |  ✅   | Koblenz, Germany                                            | EU
+[Mate Skateboards](http://mateskateboards.com/)   |  ❌   | Rickert, Germany                                            | ?
+[MOB](https://mob-shop.de/)                       |  ?   | Germany                                                     | Worldwide
+[No-Comply](https://no-comply.de/)                |  ?   | Arnsberg, Germany                                           | EU
+[Pfeil Skateboards](https://pfeilskateboards.de/) |  ?   | Mannheim, Germany                                           | ?
+[Subvert](https://www.subvert.de/)                |  ✅   |  Hamburg, Germany                                            | ?
+[Titus](https://www.titus.de/)                    |  ✅   | [Several locations in Germany](https://www.titus.de/shops/) | Worldwide
+[Sickboards](https://www.sickboards.nl/)          |  ✅   | The Hague, The Netherlands                                  | Worldwide
 
 ## Companies
 
