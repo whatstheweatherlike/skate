@@ -11,6 +11,7 @@ We just use the GitHub provided [markdown syntax](https://guides.github.com/feat
 * [Buyers Advice](buyers-advice.md)
 * [Learning](learning.md)
 * [Maintenance](maintenance.md)
+* [News](news.md)
 * [Shops](shops.md)
 * [Search engines](search-engines.md)
 * [Videos](videos.md)
