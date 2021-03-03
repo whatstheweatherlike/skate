@@ -12,5 +12,6 @@ Mostly Skateboarding | English | Every couple days | [Soundcloud](https://soundc
 [The nine club](https://art19.com/shows/the-nine-club) | English | Every couple days | [RSS](https://rss.art19.com/the-nine-club)
 [Skatosis](https://skatosis.com) | English | Every couple days | [RSS](skatosis.com/feed/podcast/)
 
-Others:
+Other sources:
 * https://player.fm/podcasts/skateboarding
+* https://podcastaddict.com/?q=skateboarding
