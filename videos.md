@@ -1,8 +1,5 @@
 # Videos
 
-* https://www.skatevideosite.com/
-* https://skateboarding.transworld.net/videos/
-
 ## Youtube
 
 ### People
@@ -15,13 +12,18 @@
 ### Groups
 
 * [Braille Skateboarding](https://www.youtube.com/user/sprocker7)
-* [Skate or die](https://www.youtube.com/channel/UCi0RVNEhrjEotBv-WupLmzg)
 * [Rad Rat](https://www.youtube.com/channel/UCM_qHztpYLsC6IHgOm4WlYw)
-* [US Skateboarding Association](https://www.youtube.com/channel/UC4hr3q843NQp78TX5zmP_vA)
+* [Skate or die](https://www.youtube.com/channel/UCi0RVNEhrjEotBv-WupLmzg)
 * [Strictly skateboarding](https://www.youtube.com/channel/UCRSDNqcqJR8m81-bVttpCCw)
+* [US Skateboarding Association](https://www.youtube.com/channel/UC4hr3q843NQp78TX5zmP_vA)
 
 ### Skate videos
 
-* [VHS Skate Tube](https://www.youtube.com/channel/UC6NVaVOokARfFe9EijxnBOA)
 * [Illegal CIV](https://www.youtube.com/channel/UC4eKh3pMZapjL0kKCI7zKEw)
+* [VHS Skate Tube](https://www.youtube.com/channel/UC6NVaVOokARfFe9EijxnBOA)
 
+## Sites
+
+* https://www.skatevideosite.com/
+* https://skateboarding.transworld.net/videos/
+* https://www.thrashermagazine.com/articles/videos/
