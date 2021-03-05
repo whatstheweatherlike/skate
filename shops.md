@@ -8,6 +8,7 @@ Shop                                              | Store | Location            
 [Hungry Hills](https://www.hungryhills.de/)       |  ✅   | Koblenz, Germany                                            | EU
 [Mate Skateboards](http://mateskateboards.com/)   |  ❌   | Rickert, Germany                                            | ?
 [MOB](https://mob-shop.de/)                       |  ?   | Germany                                                     | Worldwide
+[New Deal Skateboards](https://newdealskateboards.com/) | ? | Germany | ?
 [No-Comply](https://no-comply.de/)                |  ?   | Arnsberg, Germany                                           | EU
 [Pfeil Skateboards](https://pfeilskateboards.de/) |  ?   | Mannheim, Germany                                           | ?
 [Subvert](https://www.subvert.de/)                |  ✅   |  Hamburg, Germany                                            | ?
