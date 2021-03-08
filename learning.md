@@ -4,6 +4,7 @@
 
 * [Skateboarding glossary](http://www.skate-the-planet.com/articles/glossary/index.html)
 * [Skateboard anatomy](https://www.skatewarehouse.com/anatomy.html)
+* [SkateDeluxe Skateboard Wiki](https://www.skatedeluxe.com/blog/en/wiki/skateboarding/skateboard-wiki/)
 
 ## Tech
 
