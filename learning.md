@@ -17,6 +17,7 @@
 ## Preparation 
 
 * [Warm up](https://www.thedailypush.com/the-warm-up)
+* [Fitness](http://www.jenkemmag.com/home/2019/08/30/jocks-guide-skateboarding-gym-exercises/)
 
 ## Learn to skate
 
