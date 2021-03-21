@@ -9,4 +9,5 @@
 * https://skatemap.de
 * https://sk8park.de/
 * https://www.ridemypark.com/
+* https://myskatespots.com/
 
