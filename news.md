@@ -3,6 +3,7 @@
 * [Crailtap](https://crailtap.com/)
 * [Free skateboard magazine](https://www.freeskatemag.com)
 * [Live skateboard media](https://liveskateboardmedia.com/en)
+* [Switch Magazine](https://switchmagazine.com/)
 * [Transworld skateboarding](https://skateboarding.transworld.net/)
 * [Thrasher magazine](https://www.thrashermagazine.com/)
 
