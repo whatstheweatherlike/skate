@@ -10,7 +10,7 @@ We just use the GitHub provided [markdown syntax](https://guides.github.com/feat
 
 * [Buyers Advice](buyers-advice.md)
 * [Learning](learning.md)
-* [Maintenance](maintenance.md)
+* [Maintenance/Building](maintenance.md)
 * [News](news.md)
 * [Podcasts](podcasts.md)
 * [Shops](shops.md)
