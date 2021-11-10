@@ -12,6 +12,7 @@ Shop                                                    | Store | Location      
 [No-Comply](https://no-comply.de/)                      |   ?    | Arnsberg, Germany                                            | EU
 [Pfeil Skateboards](https://pfeilskateboards.de/)       |   ?    | Mannheim, Germany                                            | ?
 [Skate deluxe](https://www.skatedeluxe.com/en)          |   ❌   | Germany                                                      | ?
+[SkatePro](https://www.skatepro.de/)                    |   ❌   | Germany                                                      | Worldwide (?)
 [Subvert](https://www.subvert.de/)                      |   ✅   | Hamburg, Germany                                              | ?
 [Titus](https://www.titus.de/)                          |   ✅   | [Several locations in Germany](https://www.titus.de/shops/)  | Worldwide
 [Sickboards](https://www.sickboards.nl/)                |   ✅   | The Hague, The Netherlands                                   | Worldwide
